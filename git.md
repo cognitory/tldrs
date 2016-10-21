@@ -1,0 +1,19 @@
+---
+resources:
+ - https://try.github.io # interactive
+ - https://www.codecademy.com/learn/learn-git
+ - http://pcottle.github.io/learnGitBranching/
+ - https://launchschool.com/books/git
+ - http://jlord.github.io/git-it
+ - http://rogerdudler.github.io/git-guide/
+ - http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf # cheatsheet
+ - https://git-scm.com/book/ # book
+ - http://think-like-a-git.net/
+ - https://marklodato.github.io/visual-git-guide/index-en.html
+ - http://onlywei.github.io/explain-git-with-d3/
+ - http://www.alexkras.com/19-git-tips-for-everyday-use/
+ - http://tutorialzine.com/2016/06/learn-git-in-30-minutes/
+ - https://github.com/git-tips/tips
+ - https://github.com/dineshs91/gits
+ - http://ohshitgit.com/
+---

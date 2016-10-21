@@ -1,0 +1,4 @@
+---
+resources:
+ - https://atom.io/
+---

@@ -1,0 +1,8 @@
+https://github.com/FallibleInc/security-guide-for-developers/blob/master/README.md
+https://dadario.com.br/security-for-building-modern-web-apps/
+https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
+https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers
+http://www.cl.cam.ac.uk/~rja14/book.html
+http://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/
+https://github.com/OWASP/DevGuide
+http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication

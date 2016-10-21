@@ -1,0 +1,4 @@
+---
+resources:
+ - http://ohmyz.sh/
+---
