@@ -12,4 +12,5 @@ resources:
  - http://jargon.js.org/
  - https://github.com/getify/You-Dont-Know-JS/blob/master/README.md
  - http://alistapart.com/article/javascript-for-web-designers
+ - https://github.com/verekia/js-stack-from-scratch/blob/master/README.md
 ---

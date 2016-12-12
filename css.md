@@ -10,6 +10,7 @@ resources:
  - http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
  - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
  - http://learn.shayhowe.com/html-css/opening-the-box-model/
+ - http://cssreference.io/
 
 ---
 CSS is Cascading Style Sheets, the standard way of styling web pages.

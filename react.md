@@ -6,4 +6,6 @@ resources:
   - http://courses.reactjsprogram.com/courses/reactjsfundamentals
   - https://github.com/enaqx/awesome-react
   - http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
+  - redux:
+    - https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.zg7moo2aq
 ---

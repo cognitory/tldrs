@@ -6,3 +6,5 @@ http://www.cl.cam.ac.uk/~rja14/book.html
 http://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/
 https://github.com/OWASP/DevGuide
 http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication
+https://xss-game.appspot.com/
+https://www.crypto101.io/

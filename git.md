@@ -16,4 +16,5 @@ resources:
  - https://github.com/git-tips/tips
  - https://github.com/dineshs91/gits
  - http://ohshitgit.com/
+ - https://blog.marvelapp.com/designers-guide-git/
 ---

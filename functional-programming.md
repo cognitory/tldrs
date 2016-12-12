@@ -7,4 +7,5 @@ resources:
   - http://markonis.github.io/functional/programming/2016/05/03/functional-programmers-toolbox.html
   - https://github.com/hemanth/functional-programming-jargon
   - http://david-peter.de/cube-composer/
+  - https://thesocietea.org/2016/12/core-functional-programming-concepts/
 ---
