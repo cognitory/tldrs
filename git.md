@@ -17,4 +17,6 @@ resources:
  - https://github.com/dineshs91/gits
  - http://ohshitgit.com/
  - https://blog.marvelapp.com/designers-guide-git/
+ - https://zwischenzugs.com/2018/05/14/beyond-punk-rock-git-in-eleven-steps/
+ - https://blogs.msdn.microsoft.com/oldnewthing/20180323-01/?p=98325
 ---

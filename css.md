@@ -11,6 +11,8 @@ resources:
  - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
  - http://learn.shayhowe.com/html-css/opening-the-box-model/
  - http://cssreference.io/
-
+ - http://maintainablecss.com/
+ - http://book.mixu.net/css/single-page.html
+ - https://cssgridgarden.com/
 ---
 CSS is Cascading Style Sheets, the standard way of styling web pages.

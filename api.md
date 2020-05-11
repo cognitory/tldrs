@@ -1,6 +1,7 @@
 ---
 resources:
  - https://launchschool.com/books/working_with_apis
+ - https://cloud.google.com/apis/design/
 ---
 
 "API" stands for "Application Programming Interface".

@@ -1,0 +1,1 @@
+https://frontendian.co/cors

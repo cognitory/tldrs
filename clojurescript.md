@@ -8,4 +8,6 @@ resources:
  - https://www.niwi.nz/cljs-workshop/
  - https://funcool.github.io/clojurescript-unraveled/
  - http://cljsfiddle.com/
+ - https://github.com/hantuzun/awesome-clojurescript
+ - http://langintro.com/cljsbook/
 ---

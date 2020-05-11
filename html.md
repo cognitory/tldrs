@@ -4,4 +4,6 @@ resources:
  - https://www.khanacademy.org/computing/computer-programming/html-css
  - http://learn.shayhowe.com/html-css/building-your-first-web-page/
  - https://boagworld.com/dev/semantic-code-what-why-how/
+ - http://htmlreference.io/
+ - https://internetingishard.com/html-and-css/
 ---

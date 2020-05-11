@@ -8,3 +8,8 @@ https://github.com/OWASP/DevGuide
 http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication
 https://xss-game.appspot.com/
 https://www.crypto101.io/
+https://textslashplain.com/2017/01/14/the-line-of-death/
+https://github.com/shieldfy/API-Security-Checklist/blob/master/README.md
+https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
+https://www.cybok.org/
+https://github.com/trimstray/the-practical-linux-hardening-guide/blob/master/README.md

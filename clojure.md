@@ -22,4 +22,6 @@ resources:
  - https://github.com/chemouna/ClojureResources
  - https://lambdaisland.com/guides/clojure-repls/
  - https://gist.github.com/john2x/e1dca953548bfdfb9844
+ - http://www.sicpdistilled.com/
+ - https://www.creativeapplications.net/tutorials/introduction-to-clojure-part-1/
 ---
