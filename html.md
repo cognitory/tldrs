@@ -6,4 +6,5 @@ resources:
  - https://boagworld.com/dev/semantic-code-what-why-how/
  - http://htmlreference.io/
  - https://internetingishard.com/html-and-css/
+ - https://htmlforpeople.com/
 ---
