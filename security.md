@@ -1,3 +1,4 @@
+https://thecopenhagenbook.com/
 https://github.com/FallibleInc/security-guide-for-developers/blob/master/README.md
 https://dadario.com.br/security-for-building-modern-web-apps/
 https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
