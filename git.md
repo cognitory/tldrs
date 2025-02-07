@@ -1,5 +1,6 @@
 ---
 resources:
+ - https://beej.us/guide/bggit/
  - https://try.github.io # interactive
  - https://www.codecademy.com/learn/learn-git
  - http://pcottle.github.io/learnGitBranching/
